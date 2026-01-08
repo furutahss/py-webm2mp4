@@ -1,4 +1,4 @@
-# WebmToQuickTime
+# py-webm2mp4
 
 WebM形式の動画ファイルを、macOS標準のQuickTime PlayerやFinal Cut Proで再生・編集可能なMP4（HEVC）形式へ変換するツールです。
 
